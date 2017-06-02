@@ -1,0 +1,242 @@
+<!-- FIC REC #1 page made by soonjun. ^^
+feel free to ask anything if there's any problems.
+please don't take the credit away.-->
+ 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>{Title}</title>
+<link rel="shortcut icon" href="{Favicon}">
+<link rel="alternate" type="application/rss+xml" href="{RSS}">
+</head>
+<script src="http://static.tumblr.com/whx9ghv/lq0m3ktlh/modernizr.custom.34978.js"></script>            
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript" src="http://static.tumblr.com/7qjmkr5/IUmmdsy41/jquery.style-my-tooltips.js"></script>
+<script>
+    (function($){
+        $(document).ready(function(){
+            $("[title]").style_my_tooltips();
+        });
+    })(jQuery);
+</script>
+ 
+ 
+<style type="text/css">
+ 
+#s-m-t-tooltip {
+    display: block;
+    background: #dcdcdc;
+    font-size: 8px;
+    font-family: calibri;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    margin-left: 18px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    min-width: 40px;
+    max-width: 200px;
+    box-shadow: 1px 1px 1px #bbb;
+    z-index: 99999;}
+ 
+ 
+::-webkit-scrollbar-track {background-color:#000;}
+::-webkit-scrollbar-thumb {background-color:#f0f0f0;}
+::-webkit-scrollbar {width:7px;}
+ 
+body {
+    background: url('IMG URL') fixed; /*img bg*/
+    background-color: #fff;
+    line-height: 70%;}
+ 
+a:link, a:active, a:visited {
+color: #bbb;
+text-decoration: none;}
+ 
+a:hover {
+color: #222;
+text-decoration: none;}
+ 
+@font-face {
+    font-family: 'ruth';
+    src: url('ruth.ttf');
+    src: local('ruth'),
+         local('ruth'),
+         url('http://dl.dropbox.com/s/sitwaszb4we0dtu/Ruth%20slab%20one.ttf');}
+ 
+#title{
+    font-family: ruth;
+    font-size:97px;
+    color: #f9f9f9;
+    padding: 5px;
+    text-align:left;
+    width: 700px;
+    margin:auto;
+    margin-top:-40px;}
+ 
+#header img{
+    margin:auto;
+    width:700px;
+    height:155px;
+    border:2px solid #f2f2f2;
+    margin-top:70px;
+    margin-left: -45px;}
+ 
+.box {
+    margin: auto;
+    margin-top:40px;
+    width:660px;}
+ 
+table{
+    margin:auto;
+    width:704px;
+    background:#fff;
+    margin-top: 18px;
+    margin-bottom: 50px;
+    font-family: consolas;
+    font-size: 10px;
+    color: #999;
+    letter-spacing: 1px;
+    text-align:left;
+    margin-left:-45px;
+    border:2px solid #f2f2f2;
+    border-collapse:collapse;}
+ 
+td {padding: 3px 6px 3px 6px;border:2px solid #f1f1f1;}
+ 
+th{
+    padding:6px;
+    background:#f8f8f8;
+    border: 2px solid #f1f1f1;
+    color:#999;
+    font-family:trebuchet ms;
+    font-size:9px;
+    font-weight:400;
+    letter-spacing:1px;
+    text-align:center;
+    text-transform:uppercase;}
+ 
+li{
+list-style: square;}
+ 
+#ti {
+    width:270px;
+    text-align:left;
+    font-size:10px;
+    font-family: calibri;
+    background: #f9f9f9;
+    font-weight:bold;}
+   
+#ti a {color: #999;}
+#ti a:hover { color:#cc4b0b;}
+   
+#ge {
+    width:70px;
+    text-align:left;
+    font-size:8px;}
+ 
+#le {
+    width:40px;
+    text-align:center;
+    font-size:8px;}
+ 
+#pa {
+    width:40px;
+    text-align:center;
+    text-transform:uppercase;
+    font-size:8px;}
+ 
+#ra {
+    width:40px;
+    text-align:center;
+    font-size:8px;}
+   
+ #sum {
+    width:420px;
+    text-align:justify;
+    font-family:calibri;}
+ 
+#leave {
+    font-size: 31px;
+    font-family: anton;
+    color: #dcdcdc;
+    position:fixed;
+    right: 10px;
+    bottom:15px;}
+ 
+#leave a:hover{color:#fbfbfb;}
+ 
+#cr { font-size:9px;left:15px;bottom:15px;position:fixed;font-family:calibri;letter-spacing:1px; padding:5px 7px 5px 7px;border-bottom:1px solid #ebebeb;}
+a.cr {color:#c2c2c2;}
+ 
+ 
+</style>  
+<body>
+ 
+ 
+<div class="box">
+<div style="position:absolute;font-family:calibri;top:95px;font-size:10px;color:#aaa;"><b>last update:</b> DATE</div>
+<!--PICTURE-->
+<div id="header"><img src="IMG URL"></div>
+ 
+<!--TITLE-->
+<div id="title">[fanfiction rec.]</div>
+ 
+ 
+<table>
+ 
+<tr>
+<th>Pairing</th>
+<th>Title</th>
+<th>Genre</th>
+<th>Length</th>
+<th>Rating</th>
+<th>Summary</th>
+</tr>
+ 
+<!--one-->
+<tr>
+<td id="pa">PAIRING</td>
+<td id="ti">&rarr; <a href="LINK"> TITLE</a></td>
+<td id="ge">GENRE</td>
+<td id="le">LENGTH</td>
+<td id="ra">RATING</td>
+<td id="sum">SUMMARY
+</td>
+<tr>
+ 
+<!--two-->
+<tr>
+<td id="pa">PAIRING</td>
+<td id="ti">&rarr; <a href="LINK"> TITLE</a></td>
+<td id="ge">GENRE</td>
+<td id="le">LENGTH</td>
+<td id="ra">RATING</td>
+<td id="sum">SUMMARY
+</td>
+<tr>
+ 
+<!--three-->
+<tr>
+<td id="pa">PAIRING</td>
+<td id="ti">&rarr; <a href="LINK"> TITLE</a></td>
+<td id="ge">GENRE</td>
+<td id="le">LENGTH</td>
+<td id="ra">RATING</td>
+<td id="sum">SUMMARY
+</td>
+<tr>
+ 
+ 
+ 
+</table>
+ 
+ 
+<div id="leave">
+<a href="/">back</a></div>
+ 
+<div id="cr"><center><a href="http://soonjunthemes.tumblr.com" class="cr" title="© soonjun"> theme. </a></div></div>
+</body>
+ 
+</html>
